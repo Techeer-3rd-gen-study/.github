@@ -35,8 +35,7 @@ https://www.acmicpc.net/workbook/view/10609 (Graph, BFS, DFS)
 
 https://www.acmicpc.net/workbook/view/10711 (골드2~5)
 ```
-
-![스터디로드맵.svg](스터디로드맵.svg)
+![스터디로드맵](https://user-images.githubusercontent.com/52391627/200984028-0308d9d9-8018-40bd-bb7f-502ad3632c3e.svg)
 
 ### 진행방법
 ```
