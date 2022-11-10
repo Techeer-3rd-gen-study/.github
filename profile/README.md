@@ -44,3 +44,11 @@ https://www.acmicpc.net/workbook/view/10711 (골드2~5)
 문제를 풀고 해당 주차에 PR을 제출합니다. 기한은 수요일 ~ 화요일입니다.
 PR을 제출한 후, 본인이 리뷰해주어야 하는 다른 PR들을 리뷰해줍니다. 기한은 화요일 ~ 수요일입니다.
 ```
+
+## Team mates
+
+| Name | 정길연 | 배준일 | 박수현 | 이수현 | 진호병 | 홍다연 | 이지호 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/52391627?v=4"> | <img width="200px" src="https://avatars.githubusercontent.com/u/70627982?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/59956020?v=4"/>    | <img width="200px" src="https://avatars.githubusercontent.com/u/105929978?v=4">  | <img width="200px" src="https://avatars.githubusercontent.com/u/77577434?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/95288297?v=4" />   | <img width="200px" src="https://avatars.githubusercontent.com/u/32592965?v=4" />  |
+| Role    | Team leader | Team deputy leader  | Team crew   | Team crew  | Team crew  | Team crew |  Team supporter |
+| gitHub  | [gilyeon00](https://github.com/gilyeon00) | [bjo6300](https://github.com/bjo6300)   | [vivian0304](https://github.com/vivian0304)                        | [suhyeon3484](https://github.com/suhyeon3484)   | [bicco2](https://github.com/bicco2)   | [Dayeon-Hong](https://github.com/Dayeon-Hong)  | [DPS0340](https://github.com/DPS0340) 
